@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3fbfc9b-3f25-48a9-be76-980cd1f4b276" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2616">
+              <caret line="161" column="7" selection-start-line="161" selection-start-column="7" selection-end-line="161" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1881">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_page1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/main_page1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2964">
+              <caret line="156" column="38" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convert.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/convert.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylemain.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/stylemain.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2356">
+              <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main page.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/front-end/jquery.maskedinput.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/front-end/ajax.js" />
+        <option value="$PROJECT_DIR$/front-end/Main page.html" />
+        <option value="$PROJECT_DIR$/front-end/style.css" />
+        <option value="$PROJECT_DIR$/front-end/convert.js" />
+        <option value="$PROJECT_DIR$/front-end/main_page1.html" />
+        <option value="$PROJECT_DIR$/front-end/stylemain.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1700" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projectEgorKoranets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEgorKoranets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEgorKoranets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEgorKoranets" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3fbfc9b-3f25-48a9-be76-980cd1f4b276" name="Default" comment="" />
+      <created>1526130543494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526130543494</updated>
+      <workItem from="1526130547438" duration="5880000" />
+      <workItem from="1526137194023" duration="1389000" />
+      <workItem from="1526138959351" duration="2293000" />
+      <workItem from="1526142603286" duration="11579000" />
+      <workItem from="1526217083857" duration="5298000" />
+      <workItem from="1526226251901" duration="1834000" />
+      <workItem from="1526314377246" duration="1525000" />
+      <workItem from="1526337115203" duration="425000" />
+      <workItem from="1526373854225" duration="24342000" />
+      <workItem from="1526461676726" duration="4486000" />
+      <workItem from="1526562143562" duration="13223000" />
+      <workItem from="1526575690165" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22868474" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2140845" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="1" lean-forward="true" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="31" lean-forward="true" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="135" column="42" lean-forward="true" selection-start-line="135" selection-start-column="42" selection-end-line="135" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.css.map" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/Main page.html" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/курсач/server.js">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/server.js</OriginalElement>
+          <nodes>
+            <node x="0.0" y="113.0">$PROJECT_DIR$/node_modules/mysql/index.js</node>
+            <node x="159.0" y="78.0">$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;</node>
+            <node x="229.0" y="0.0">fs</node>
+            <node x="321.0" y="141.0">http</node>
+            <node x="215.0" y="254.0">path</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;" target="fs">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;" target="$PROJECT_DIR$/node_modules/mysql/index.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;" target="http">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;" target="path">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-166.0" y="130.0" />
+          <SelectedNodes>
+            <node>path</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_remove_7298.png" />
+    <entry file="file://$PROJECT_DIR$/del.png" />
+    <entry file="file://$PROJECT_DIR$/front-end/del.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/jquery.maskedinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elitefon.ru-32909.jpg" />
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/bodybg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/stylemain.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/main_page1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="156" column="38" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/курсач">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/Auth.js#Buffer#13;D:/курсач/node_modules/mysql/lib/protocol/Auth.js#Crypto#48;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/AuthSwitchRequestPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/AuthSwitchResponsePacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/BufferList.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js#Buffer#202;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/ChangeUser.js#Auth#112;D:/курсач/node_modules/mysql/lib/protocol/sequences/ChangeUser.js#Packets#74;D:/курсач/node_modules/mysql/lib/protocol/sequences/ChangeUser.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/ChangeUser.js#Util#42;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js#Buffer#13;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComPingPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/Connection.js#ConnectionConfig#166;D:/курсач/node_modules/mysql/lib/Connection.js#Crypto#4;D:/курсач/node_modules/mysql/lib/Connection.js#Events#46;D:/курсач/node_modules/mysql/lib/Connection.js#Net#88;D:/курсач/node_modules/mysql/lib/Connection.js#Protocol#220;D:/курсач/node_modules/mysql/lib/Connection.js#Query#331;D:/курсач/node_modules/mysql/lib/Connection.js#SqlString#275;D:/курсач/node_modules/mysql/lib/Connection.js#Util#393;D:/курсач/node_modules/mysql/lib/Connection.js#tls#127;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/ConnectionConfig.js#Charsets#110;D:/курсач/node_modules/mysql/lib/ConnectionConfig.js#ClientConstants#48;D:/курсач/node_modules/mysql/lib/ConnectionConfig.js#ssl_profiles.js#4823;D:/курсач/node_modules/mysql/lib/ConnectionConfig.js#urlParse#22;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EmptyPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/EofPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ErrorPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/Field.js#Types#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/FieldPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Handshake.js#Auth#133;D:/курсач/node_modules/mysql/lib/protocol/sequences/Handshake.js#ClientConstants#175;D:/курсач/node_modules/mysql/lib/protocol/sequences/Handshake.js#Packets#88;D:/курсач/node_modules/mysql/lib/protocol/sequences/Handshake.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/Handshake.js#Util#49;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js#Buffer#13;D:/курсач/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js#Client#48;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/Main page.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OkPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketHeader.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/PacketWriter.js#Buffer#387;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/Parser.js#BigNumber#141;D:/курсач/node_modules/mysql/lib/protocol/Parser.js#Buffer#210;D:/курсач/node_modules/mysql/lib/protocol/Parser.js#BufferList#245;D:/курсач/node_modules/mysql/lib/protocol/Parser.js#PacketHeader#90;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Ping.js#Packets#74;D:/курсач/node_modules/mysql/lib/protocol/sequences/Ping.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/Ping.js#Util#42;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/Pool.js#Connection#41;D:/курсач/node_modules/mysql/lib/Pool.js#EventEmitter#104;D:/курсач/node_modules/mysql/lib/Pool.js#PoolConnection#178;D:/курсач/node_modules/mysql/lib/Pool.js#Util#140;D:/курсач/node_modules/mysql/lib/Pool.js#mysql#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/PoolCluster.js#EventEmitter#236;D:/курсач/node_modules/mysql/lib/PoolCluster.js#Pool#4;D:/курсач/node_modules/mysql/lib/PoolCluster.js#PoolConfig#43;D:/курсач/node_modules/mysql/lib/PoolCluster.js#PoolNamespace#88;D:/курсач/node_modules/mysql/lib/PoolCluster.js#PoolSelector#136;D:/курсач/node_modules/mysql/lib/PoolCluster.js#Util#183;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/PoolConfig.js#ConnectionConfig#5;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/PoolConnection.js#Connection#47;D:/курсач/node_modules/mysql/lib/PoolConnection.js#Events#89;D:/курсач/node_modules/mysql/lib/PoolConnection.js#inherits#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/PoolNamespace.js#Connection#4;D:/курсач/node_modules/mysql/lib/PoolNamespace.js#PoolSelector#48;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/PoolSelector.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/Protocol.js#PacketWriter#247;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Packets#87;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Parser#4;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Sequences#44;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Stream#181;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Timers#128;D:/курсач/node_modules/mysql/lib/protocol/Protocol.js#Util#211;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Query.js#Packets#82;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#Readable#260;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#ResultSet#124;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#ServerStatus#168;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#Util#46;D:/курсач/node_modules/mysql/lib/protocol/sequences/Query.js#fs#226;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Quit.js#Packets#74;D:/курсач/node_modules/mysql/lib/protocol/sequences/Quit.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/Quit.js#Util#42;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/ResultSet.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/RowDataPacket.js#Charsets#70;D:/курсач/node_modules/mysql/lib/protocol/packets/RowDataPacket.js#Field#139;D:/курсач/node_modules/mysql/lib/protocol/packets/RowDataPacket.js#Types#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js#ClientConstants#154;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Sequence.js#ErrorConstants#139;D:/курсач/node_modules/mysql/lib/protocol/sequences/Sequence.js#EventEmitter#59;D:/курсач/node_modules/mysql/lib/protocol/sequences/Sequence.js#Packets#95;D:/курсач/node_modules/mysql/lib/protocol/sequences/Sequence.js#Util#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/SqlString.js#sqlstring#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sqlstring/lib/SqlString.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/Statistics.js#Packets#74;D:/курсач/node_modules/mysql/lib/protocol/sequences/Statistics.js#Sequence#4;D:/курсач/node_modules/mysql/lib/protocol/sequences/Statistics.js#Util#42;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js#Readable#1775;D:/курсач/node_modules/readable-stream/lib/_stream_duplex.js#Writable#1821;D:/курсач/node_modules/readable-stream/lib/_stream_duplex.js#inherits.js#1730;D:/курсач/node_modules/readable-stream/lib/_stream_duplex.js#processNextTick#1395;D:/курсач/node_modules/readable-stream/lib/_stream_duplex.js#util#1682;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js#Transform#1313;D:/курсач/node_modules/readable-stream/lib/_stream_passthrough.js#inherits.js#1428;D:/курсач/node_modules/readable-stream/lib/_stream_passthrough.js#util#1380;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js#Buffer#1847;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#BufferList#2441;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#EE#1461;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#Stream#1629;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#StringDecoder#5725;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#_stream_duplex.js#3552;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#debugUtil#2252;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#destroyImpl#2500;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#inherits.js#2189;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#isArray#1293;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#processNextTick#1172;D:/курсач/node_modules/readable-stream/lib/_stream_readable.js#util#2141;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js#Duplex#3531;D:/курсач/node_modules/readable-stream/lib/_stream_transform.js#inherits.js#3640;D:/курсач/node_modules/readable-stream/lib/_stream_transform.js#util#3592;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js#Buffer#2453;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#Stream#2355;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#_stream_duplex.js#2899;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#destroyImpl#2729;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#inherits.js#2191;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#internalUtil#2254;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#processNextTick#1329;D:/курсач/node_modules/readable-stream/lib/_stream_writable.js#util#2143;</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/ajax.js</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/bbsb.by.png</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bignumber.js/bignumber.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/bootstrap.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/charsets.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/client.js</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/convert.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js#processNextTick#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/duplex-browser.js#_stream_duplex.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/duplex.js#Duplex#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/errors.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/index.js#Connection.js#3825;D:/курсач/node_modules/mysql/index.js#ConnectionConfig.js#3910;D:/курсач/node_modules/mysql/index.js#Pool.js#3989;D:/курсач/node_modules/mysql/index.js#PoolCluster.js#4063;D:/курсач/node_modules/mysql/index.js#PoolConfig.js#4143;D:/курсач/node_modules/mysql/index.js#SqlString.js#4221;D:/курсач/node_modules/mysql/index.js#types.js#4303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/packets/index.js#AuthSwitchRequestPacket.js#34;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#AuthSwitchResponsePacket.js#107;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ClientAuthenticationPacket.js#183;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ComChangeUserPacket.js#254;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ComPingPacket.js#312;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ComQueryPacket.js#365;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ComQuitPacket.js#418;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ComStatisticsPacket.js#476;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#EmptyPacket.js#532;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#EofPacket.js#578;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ErrorPacket.js#624;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#Field.js#666;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#FieldPacket.js#708;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#HandshakeInitializationPacket.js#774;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#LocalDataFilePacket.js#848;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#OkPacket.js#901;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#OldPasswordPacket.js#952;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#ResultSetHeaderPacket.js#1016;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#RowDataPacket.js#1076;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#SSLRequestPacket.js#1131;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#StatisticsPacket.js#1189;D:/курсач/node_modules/mysql/lib/protocol/packets/index.js#UseOldPasswordPacket.js#1251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/sequences/index.js#ChangeUser.js#21;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Handshake.js#66;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Ping.js#105;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Query.js#140;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Quit.js#175;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Sequence.js#213;D:/курсач/node_modules/mysql/lib/protocol/sequences/index.js#Statistics.js#257;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/isarray/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/sqlstring/index.js#SqlString.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/safe-buffer/index.js#Buffer#436;D:/курсач/node_modules/safe-buffer/index.js#buffer#48;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/process-nextick-args/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/inherits/inherits.js#inherits_browser.js#156;D:/курсач/node_modules/inherits/inherits.js#util#12;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/inherits/inherits_browser.js</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/jquery.js</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/jquery.maskedinput.js#jquery.js#350;</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/main_page1.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/util-deprecate/node.js#deprecate#96;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/passthrough.js#PassThrough#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/readable-browser.js#_stream_duplex.js#193;D:/курсач/node_modules/readable-stream/readable-browser.js#_stream_passthrough.js#310;D:/курсач/node_modules/readable-stream/readable-browser.js#_stream_readable.js#27;D:/курсач/node_modules/readable-stream/readable-browser.js#_stream_transform.js#249;D:/курсач/node_modules/readable-stream/readable-browser.js#_stream_writable.js#138;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/readable.js#Duplex#590;D:/курсач/node_modules/readable-stream/readable.js#PassThrough#706;D:/курсач/node_modules/readable-stream/readable.js#Stream#4;D:/курсач/node_modules/readable-stream/readable.js#Transform#645;D:/курсач/node_modules/readable-stream/readable.js#_stream_duplex.js#607;D:/курсач/node_modules/readable-stream/readable.js#_stream_passthrough.js#728;D:/курсач/node_modules/readable-stream/readable.js#_stream_readable.js#423;D:/курсач/node_modules/readable-stream/readable.js#_stream_transform.js#665;D:/курсач/node_modules/readable-stream/readable.js#_stream_writable.js#550;</node>
+            <node x="" y="">$PROJECT_DIR$/server.js#fs#32;D:/курсач/server.js#http#4;D:/курсач/server.js#mysql#84;D:/курсач/server.js#path#56;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/server_status.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/ssl_profiles.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream-browser.js#EventEmitter#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream.js#stream.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/string_decoder/lib/string_decoder.js#Buffer#28;D:/курсач/node_modules/string_decoder/lib/string_decoder.js#StringDecoder#1500;</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/style.css</node>
+            <node x="" y="">$PROJECT_DIR$/front-end/stylemain.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/isarray/test.js#isArray#4;D:/курсач/node_modules/isarray/test.js#test#33;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/safe-buffer/test.js#SafeBuffer#89;D:/курсач/node_modules/safe-buffer/test.js#test#49;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/core-util-is/test.js#assert#4;D:/курсач/node_modules/core-util-is/test.js#t#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/process-nextick-args/test.js#nextTick#36;D:/курсач/node_modules/process-nextick-args/test.js#test#11;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/transform.js#Transform#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mysql/lib/protocol/constants/types.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/core-util-is/lib/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/writable-browser.js#_stream_writable.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/writable.js#Stream#4;D:/курсач/node_modules/readable-stream/writable.js#Writable#35;</node>
+            <node x="" y="">buffer</node>
+            <node x="" y="">crypto</node>
+            <node x="" y="">EventEmitter;</node>
+            <node x="" y="">fs</node>
+            <node x="" y="">http</node>
+            <node x="" y="">http://bbsb.by/wp-content/uploads/favicon.ico</node>
+            <node x="" y="">net</node>
+            <node x="" y="">path</node>
+            <node x="" y="">sqlstring</node>
+            <node x="" y="">Stream;</node>
+            <node x="" y="">$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts#test#33864;</node>
+            <node x="" y="">tape</node>
+            <node x="" y="">timers</node>
+            <node x="" y="">tls</node>
+            <node x="" y="">parse;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js#deprecate#2273;inherits;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2004792332268371" x="1363.0" y="1343.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/convert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Main page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2616">
+          <caret line="161" column="7" selection-start-line="161" selection-start-column="7" selection-end-line="161" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20404041" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

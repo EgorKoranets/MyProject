@@ -1,0 +1,108 @@
+header {
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    padding-bottom: 20px;
+}
+button{
+    margin:20px;
+    color: #5a6268;
+    }
+img{
+    text-align: center;
+}
+
+form
+{
+    margin: auto;
+    width: 450px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+input,select{
+    margin-bottom: 0.5px;
+    margin-top: 0.5px;
+}
+#submit{
+    padding: 5px;
+    margin-top: 10px;
+    width: 200px;
+    background-color: #4dc71f;
+}
+.delete{
+    border-radius: 30px;
+    padding: 5px;
+    width: 30px;
+    margin-top: 10px;
+    background-color: #c82333;
+    color: white;
+}
+label{
+    display: inline-block;
+    text-align: center;
+}
+main{
+    margin: auto;
+}
+table{
+    border: 1px solid black;
+    font-size: 9.8px;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+tr{
+    border: 1px solid black;
+
+}
+th{
+    border: 1px solid black;
+}
+thead{
+    background-color: #80bdff;
+}
+button{
+    padding: 12px;
+    background-color: #004085;
+    color: #4dc71f;
+
+}
+.hidden{
+    display: none;
+}
+input{
+    margin-left: 10px;
+
+}
+span{
+    color: red;
+}
+.navpanel{
+    width: 80%;
+    margin: auto;
+    background: black;
+    padding: 10px;
+    text-align: left;
+}
+.navpanel a{
+
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.front{
+    margin: auto;
+    background-color: white;
+    width: 85%;
+    border: 1px solid black;
+    border-top: 40px solid black;
+    margin-bottom: 50px;
+}
